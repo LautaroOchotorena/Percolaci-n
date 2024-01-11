@@ -6,4 +6,4 @@ El proyecto se expuso de forma oral para la comprensión de dicho tema usando el
 **Recomiendo leer** [script_explicativo](https://github.com/LautaroOchotorena/Percolacion/blob/main/Script_explicativo.md) para entender el proyecto.
 
 **Requerimientos:**<br>
-Python3, Pygame, C++, Xmgrace, Numpy y gsl.
+Python3, Pygame, C++, Xmgrace, Numpy y GSL.
