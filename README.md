@@ -6,6 +6,8 @@ El proyecto se expuso de forma oral para la comprensión de dicho tema usando el
 **Recomiendo leer** [script_explicativo](https://github.com/LautaroOchotorena/Percolacion/blob/main/Script_explicativo.md) para entender el proyecto.
 
 ## Ejemplo demostrativo de la interfaz gráfica
+Primero se setea la probabilidad $p$ de ocupación de una celda. Las celdas en negro representan que no se ocupó dicha celda.<br>
+En el video se muestran varias iteraciones con posibilidad de pararlas si se necesita.<br>
 Cada color representa un cluster. Un cluster se llama percolador si logra tener un camino desde arriba hasta abajo.
 
 https://github.com/LautaroOchotorena/Percolacion/assets/125595446/2e86e00c-4303-4bd4-80d6-0a61a2c2d8e8
