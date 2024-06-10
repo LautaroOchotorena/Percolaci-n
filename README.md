@@ -13,5 +13,5 @@ Cada color representa un cluster. Un cluster se llama percolador si logra tener 
 https://github.com/LautaroOchotorena/Percolacion/assets/125595446/2e86e00c-4303-4bd4-80d6-0a61a2c2d8e8
 
 
-## Requerimientos
+## Requerimientos principales
 Python3, Pygame, C++, Xmgrace, Numpy y GSL.
