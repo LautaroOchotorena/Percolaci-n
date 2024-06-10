@@ -5,10 +5,7 @@ El proyecto se expuso de forma oral para la comprensión de dicho tema usando el
 
 **Recomiendo leer** [script_explicativo](https://github.com/LautaroOchotorena/Percolacion/blob/main/Script_explicativo.md) para entender el proyecto.
 
-<video width="320" height="240" controls>
-  <source src="Ejemplo%20demostrativo.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+https://github.com/LautaroOchotorena/Percolacion/assets/125595446/aa511de5-4ae3-4553-80dc-e775d27142e1
 
 **Requerimientos:**<br>
 Python3, Pygame, C++, Xmgrace, Numpy y GSL.
