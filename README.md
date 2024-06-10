@@ -5,7 +5,11 @@ El proyecto se expuso de forma oral para la comprensión de dicho tema usando el
 
 **Recomiendo leer** [script_explicativo](https://github.com/LautaroOchotorena/Percolacion/blob/main/Script_explicativo.md) para entender el proyecto.
 
-https://github.com/LautaroOchotorena/Percolacion/assets/125595446/aa511de5-4ae3-4553-80dc-e775d27142e1
+## Ejemplo demostrativo de la interfaz gráfica
+Cada color representa un cluster. Un cluster se llama percolador si logra tener un camino desde arriba hasta abajo.
 
-**Requerimientos:**<br>
+https://github.com/LautaroOchotorena/Percolacion/assets/125595446/2e86e00c-4303-4bd4-80d6-0a61a2c2d8e8
+
+
+## Requerimientos
 Python3, Pygame, C++, Xmgrace, Numpy y GSL.
